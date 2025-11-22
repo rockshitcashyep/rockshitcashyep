@@ -19,11 +19,8 @@
 ### 💻 **Programming & Tools**
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,matlab,autocad,arduino)](#)
 
-### 🤖 **AI/ML & Data Science**
+### 🤖 **ML & Data Science**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35"/>
 
-### ⚙️ **MLOps & DevOps**
-[![MLOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,gcp,githubactions)](#)
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![DagsHub](https://img.shields.io/badge/DagsHub-2D72D9?style=flat-square&logo=dagshub&logoColor=white)
 
